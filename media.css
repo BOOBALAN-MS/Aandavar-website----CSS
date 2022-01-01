@@ -1,0 +1,39 @@
+@media (max-width: 920px) {
+  header {
+    flex-wrap: wrap;
+    position: relative;
+  }
+  .header__menu ul li {
+    display: block;
+  }
+  .service__content {
+    flex-wrap: wrap;
+  }
+  .about__content--1 {
+    flex-wrap: wrap;
+  }
+  .about__content--2 {
+    flex-wrap: wrap;
+  }
+  .about__content--3 {
+    flex-wrap: wrap;
+  }
+  .teams {
+    flex-wrap: wrap;
+  }
+  .our__service--1 {
+    flex-wrap: wrap;
+  }
+  .our__service--2 {
+    flex-wrap: wrap;
+  }
+  .our__service--3 {
+    flex-wrap: wrap;
+  }
+  .footer-1 {
+    flex-wrap: wrap;
+  }
+  .footer-2 {
+    flex-wrap: wrap;
+  }
+}
